@@ -1,0 +1,2 @@
+nussl
+file:/exports/projects/computer-audition/andreas/sep_zoo_pipeline # This is from nussl/transfer-learning
